@@ -1,7 +1,7 @@
 # Myntra-Clone-ReactJs
 This project is a Myntra clone built using ReactJS, JavaScript, HTML, CSS, Bootstrap, and NodeJS.
 
-#Technologies Used
+# Technologies Used
 *JavaScript: Primary language used for frontend development.
 <br>
 *CSS: Styling language for designing the user interface.
@@ -15,12 +15,12 @@ This project is a Myntra clone built using ReactJS, JavaScript, HTML, CSS, Boots
 *NodeJS: JavaScript runtime used for backend development.
 <br>
 <br>
-#Learning Source
+# Learning Source
 <br>
 This project was developed while following a ReactJS course by KG Coding on YouTube. The course provided valuable insights into building modern web applications using ReactJS.
 <br>
 <br>
-#Features
+# Features
 <br>
 Product Listing: Displaying products with details like images, prices, and descriptions.
 <br>
